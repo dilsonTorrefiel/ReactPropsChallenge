@@ -1,2 +1,2 @@
-# ReactPropsChallenge
+# ReactPropertiesChallenge
 Created with CodeSandbox
